@@ -6,7 +6,7 @@ This is where I showcase my skills, projects, and everything that makes me *me* 
 
 ![Portfolio Preview](screenshots/portsnshot.png)
 
-🔗 **Live Preview:** [Click here to view the live demo](https://your-live-portfolio-link.com)
+🔗 **Live Preview:** [Click here to view the live demo](https://flutter-portfolio-76252.web.app)
 
 ---
 
