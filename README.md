@@ -33,7 +33,7 @@ This is where I showcase my skills, projects, and everything that makes me *me* 
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/flutter-portfolio.git
+git clone https://github.com/saheelmk/portfolio-saheel.git
 cd flutter-portfolio
 flutter pub get
 flutter run -d chrome
