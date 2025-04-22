@@ -6,6 +6,8 @@ This is where I showcase my skills, projects, and everything that makes me *me* 
 
 ![Portfolio Preview](screenshots/portsnshot.png)
 
+🔗 **Live Preview:** [Click here to view the live demo](https://your-live-portfolio-link.com)
+
 ---
 
 ## 🚀 Features
@@ -26,14 +28,6 @@ This is where I showcase my skills, projects, and everything that makes me *me* 
 
 ---
 
-## 📸 Screenshot Preview
-
-| Home Page |
-|-----------|
-| ![Home](screenshots/portsnshot.png) |
-
----
-
 ## 🧪 Getting Started
 
 To run this project locally:
@@ -43,5 +37,3 @@ git clone https://github.com/your-username/flutter-portfolio.git
 cd flutter-portfolio
 flutter pub get
 flutter run -d chrome
-
-
